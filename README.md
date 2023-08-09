@@ -1,7 +1,7 @@
-### Oiie, me chamo Rafaela Krever! 👋
+### Oiie, me chamo Rafaela Krever! 👋 Sou Desenvolvedora Front-end. 
 
 - 💻   Atualmente trabalho como Assistente Administrativo, mas estou ansiosíssima para conquistar meu primeiro emprego na área que tanto estudo. 
--  📚  Estou cursando Análise e Desenvolvimento de Sistemas e junto curso Fullstack, no momento estou a predendo JavaScript em Front-end. 
+-  📚  Estou cursando Análise e Desenvolvimento de Sistemas e para complementar, faço curso Fullstack.
 -  😃   Ela/dela
 
 
